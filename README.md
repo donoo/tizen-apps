@@ -2,8 +2,8 @@
 
 # 1. Home
 
-# a. UI
+### a. UI
   
-# b. Settings
+### b. Settings
   
-# c. Disclaimer
+### c. Disclaimer
