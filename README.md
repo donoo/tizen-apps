@@ -1,3 +1,9 @@
 # Tizen-Apps
 
-1. Home
+# 1. Home
+
+# a. UI
+  
+# b. Settings
+  
+# c. Disclaimer
